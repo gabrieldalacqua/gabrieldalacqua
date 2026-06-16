@@ -23,7 +23,7 @@ I'm Gabriel, a QA Engineer based in Brazil.
 ## Fun Facts
 
 * My favorite game is terraria 
-* i like make thing working just pressing a button
+* i like make things working just pressing a button
 * Most of my debugging sessions start with coffee and end with more coffee.
 * I might be addicted to D&D
 
